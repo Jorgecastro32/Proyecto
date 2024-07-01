@@ -4,7 +4,7 @@ import seaborn as sns
 import numpy as np
 
 # Cargar el archivo CSV
-df = pd.read_excel(r'C:\Users\lucia\downloads\encuesta_salud_madrid_2021.xlsx')
+df = pd.read_excel(r'C:\Users\Jorge\downloads\encuesta_salud_madrid_2021.xlsx')
 
 # Renombrar las variables de salud si es necesario
 renombrar_salud = {
