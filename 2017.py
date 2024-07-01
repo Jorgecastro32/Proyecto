@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Cargar el archivo Excel
-df = pd.read_excel(r'C:\Users\lucia\downloads\encuesta_salud_madrid_2017.xlsx')
+df = pd.read_excel(r'C:\Users\Jorge\downloads\encuesta_salud_madrid_2017.xlsx')
 
 
 # Renombrar las columnas según sea necesario (si aún no lo has hecho)
